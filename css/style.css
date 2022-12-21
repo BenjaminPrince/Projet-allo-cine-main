@@ -1,0 +1,51 @@
+#app{
+  color:white;  
+  background-color: black;
+}
+
+body{
+    caret-color: transparent;
+}
+
+.block-film{
+    max-width: 100%;
+    padding: 20px;
+    margin: 30px auto;
+    background-color:grey;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding-left: 30 px;
+    
+}
+
+.photo {
+    max-width: 20%;
+    min-width: 25%;
+}
+
+p{
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+
+img { 
+    max-width: 20%;
+    height: auto;
+  }
+
+.film-images{
+    width: 20%;
+    padding: 1px;
+}
+
+p.footer{
+    margin:0px;
+}
